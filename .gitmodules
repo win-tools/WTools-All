@@ -25,3 +25,6 @@
 [submodule "Service"]
 	path = Service
 	url = https://gitee.com/clovme/Service.git
+[submodule "Background"]
+	path = Background
+	url = https://gitee.com/clovme/Background.git
