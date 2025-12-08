@@ -16,3 +16,6 @@
 [submodule "Entertainment"]
 	path = Entertainment
 	url = https://gitee.com/clovme/Entertainment.git
+[submodule "Proxy"]
+	path = Proxy
+	url = https://gitee.com/clovme/Proxy.git

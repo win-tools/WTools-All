@@ -475,30 +475,37 @@
     ],
     "代理软件": [
         {
-            "Name": "Charles",
-            "TargetPath": "%rp%\\software\\Proxy Software\\Charles\\Charles.exe",
-            "IconLocation": "%rp%\\software\\Proxy Software\\Charles\\Charles.exe",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
-            "Name": "FastGithub",
-            "TargetPath": "%rp%\\software\\Proxy Software\\FastGithub\\FastGithub.UI.exe",
-            "IconLocation": "%rp%\\software\\Proxy Software\\FastGithub\\FastGithub.UI.exe",
+            "Name": "Oppa",
+            "TargetPath": "C:\\Program Files (x86)\\Oppa\\Oppa.exe",
+            "IconLocation": "C:\\Program Files (x86)\\Oppa\\Oppa.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "Mihomo Party",
-            "TargetPath": "%rp%\\software\\Proxy Software\\mihomo-party\\Mihomo Party.exe",
-            "IconLocation": "%rp%\\software\\Proxy Software\\mihomo-party\\Mihomo Party.exe",
+            "TargetPath": "%rp%\\Proxy\\mihomo\\Mihomo Party.exe",
+            "IconLocation": "%rp%\\Proxy\\mihomo\\Mihomo Party.exe",
             "Arguments": "",
             "Count": 0
         },
         {
-            "Name": "Oppa",
-            "TargetPath": "C:\\Program Files (x86)\\Oppa\\Oppa.exe",
-            "IconLocation": "C:\\Program Files (x86)\\Oppa\\Oppa.exe",
+            "Name": "FastGithub",
+            "TargetPath": "%rp%\\Proxy\\FastGithub\\FastGithub.UI.exe",
+            "IconLocation": "%rp%\\Proxy\\FastGithub\\FastGithub.UI.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Charles",
+            "TargetPath": "%rp%\\Proxy\\Charles\\Charles.exe",
+            "IconLocation": "%rp%\\Proxy\\Charles\\Charles.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Fiddler",
+            "TargetPath": "%rp%\\Proxy\\Fiddler\\Fiddler.exe",
+            "IconLocation": "%rp%\\Proxy\\Fiddler\\Fiddler.exe",
             "Arguments": "",
             "Count": 0
         }
