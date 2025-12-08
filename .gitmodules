@@ -22,3 +22,6 @@
 [submodule "Download"]
 	path = Download
 	url = https://gitee.com/clovme/Download.git
+[submodule "Service"]
+	path = Service
+	url = https://gitee.com/clovme/Service.git
