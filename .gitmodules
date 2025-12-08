@@ -1,6 +1,0 @@
-[submodule "Software-Commonly"]
-	path = Software-Commonly
-	url = https://gitee.com/clovme/Software-Commonly.git
-[submodule "Software-Development"]
-	path = Software-Development
-	url = https://gitee.com/clovme/Software-Development.git
