@@ -179,8 +179,8 @@
         },
         {
             "Name": "\u671B\u8A00OCR",
-            "TargetPath": "%rr%\\Application\\\u671B\u8A00OCR_v3.1.2\\subocr.exe",
-            "IconLocation": "%rr%\\Application\\\u671B\u8A00OCR_v3.1.2\\subocr.exe",
+            "TargetPath": "%rp%\\Development\\\u671B\u8A00OCR\\subocr.exe",
+            "IconLocation": "%rp%\\Development\\\u671B\u8A00OCR\\subocr.exe",
             "Arguments": "",
             "Count": 0
         }
