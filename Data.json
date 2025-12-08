@@ -51,43 +51,8 @@
         },
         {
             "Name": "Sublime Text",
-            "TargetPath": "%rp%\\software\\Common Software\\Sublime Text\\sublime_text.exe",
-            "IconLocation": "%rp%\\software\\Common Software\\Sublime Text\\sublime_text.exe",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
-            "Name": "\u4E2A\u4EBA\u7B80\u5386",
-            "TargetPath": "%rp%\\software\\Common Software\\resume\\\u4E2A\u4EBA\u7B80\u5386.exe",
-            "IconLocation": "%rp%\\software\\Common Software\\resume\\\u4E2A\u4EBA\u7B80\u5386.exe",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
-            "Name": "ChatGPT",
-            "TargetPath": "%rp%\\software\\Common Software\\ChatGPT.exe",
-            "IconLocation": "%rp%\\software\\Common Software\\ChatGPT.exe",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
-            "Name": "MFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C",
-            "TargetPath": "%rp%\\software\\VC++\u4E4BMFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C\uFF08\u4E00\u6000\u53BB\u610F\uFF09.chm",
-            "IconLocation": "%rp%\\software\\VC++\u4E4BMFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C\uFF08\u4E00\u6000\u53BB\u610F\uFF09.chm",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
-            "Name": "Win32API\u5927\u5168+(\u4E2D\u6587\u7248)",
-            "TargetPath": "%rp%\\software\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
-            "IconLocation": "%rp%\\software\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
-            "Name": "VPot",
-            "TargetPath": "%rp%\\software\\Common Software\\VPot\\VPot-win-x64-v2411.exe",
-            "IconLocation": "%rp%\\software\\Common Software\\VPot\\VPot-win-x64-v2411.exe",
+            "TargetPath": "%rp%\\Software-Commonly\\Sublime Text\\sublime_text.exe",
+            "IconLocation": "%rp%\\Software-Commonly\\Sublime Text\\sublime_text.exe",
             "Arguments": "",
             "Count": 0
         },
@@ -95,6 +60,41 @@
             "Name": "\u559C\u9A6C\u62C9\u96C5\u542C\u4E66",
             "TargetPath": "C:\\Program Files (x86)\\ximalaya\\\u559C\u9A6C\u62C9\u96C5.exe",
             "IconLocation": "C:\\Program Files (x86)\\ximalaya\\\u559C\u9A6C\u62C9\u96C5.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "\u4E2A\u4EBA\u7B80\u5386",
+            "TargetPath": "%rp%\\Software-Commonly\\resume\\\u4E2A\u4EBA\u7B80\u5386.exe",
+            "IconLocation": "%rp%\\Software-Commonly\\resume\\\u4E2A\u4EBA\u7B80\u5386.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "ChatGPT",
+            "TargetPath": "%rp%\\Software-Commonly\\ChatGPT.exe",
+            "IconLocation": "%rp%\\Software-Commonly\\ChatGPT.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "MFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C",
+            "TargetPath": "%rp%\\Software-Commonly\\VC++\u4E4BMFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C\uFF08\u4E00\u6000\u53BB\u610F\uFF09.chm",
+            "IconLocation": "%rp%\\Software-Commonly\\VC++\u4E4BMFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C\uFF08\u4E00\u6000\u53BB\u610F\uFF09.chm",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Win32API\u5927\u5168+(\u4E2D\u6587\u7248)",
+            "TargetPath": "%rp%\\Software-Commonly\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
+            "IconLocation": "%rp%\\Software-Commonly\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Win32API\u5927\u5168+(\u4E2D\u6587\u7248)",
+            "TargetPath": "%rp%\\software\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
+            "IconLocation": "%rp%\\software\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
             "Arguments": "",
             "Count": 0
         }
