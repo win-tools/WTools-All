@@ -51,8 +51,8 @@
         },
         {
             "Name": "Sublime Text",
-            "TargetPath": "%rp%\\Software-Commonly\\Sublime Text\\sublime_text.exe",
-            "IconLocation": "%rp%\\Software-Commonly\\Sublime Text\\sublime_text.exe",
+            "TargetPath": "%rp%\\Commonly\\Sublime Text\\sublime_text.exe",
+            "IconLocation": "%rp%\\Commonly\\Sublime Text\\sublime_text.exe",
             "Arguments": "",
             "Count": 0
         },
@@ -65,29 +65,29 @@
         },
         {
             "Name": "\u4E2A\u4EBA\u7B80\u5386",
-            "TargetPath": "%rp%\\Software-Commonly\\resume\\\u4E2A\u4EBA\u7B80\u5386.exe",
-            "IconLocation": "%rp%\\Software-Commonly\\resume\\\u4E2A\u4EBA\u7B80\u5386.exe",
+            "TargetPath": "%rp%\\Commonly\\resume\\\u4E2A\u4EBA\u7B80\u5386.exe",
+            "IconLocation": "%rp%\\Commonly\\resume\\\u4E2A\u4EBA\u7B80\u5386.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "ChatGPT",
-            "TargetPath": "%rp%\\Software-Commonly\\ChatGPT.exe",
-            "IconLocation": "%rp%\\Software-Commonly\\ChatGPT.exe",
+            "TargetPath": "%rp%\\Commonly\\ChatGPT.exe",
+            "IconLocation": "%rp%\\Commonly\\ChatGPT.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "MFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C",
-            "TargetPath": "%rp%\\Software-Commonly\\VC++\u4E4BMFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C\uFF08\u4E00\u6000\u53BB\u610F\uFF09.chm",
-            "IconLocation": "%rp%\\Software-Commonly\\VC++\u4E4BMFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C\uFF08\u4E00\u6000\u53BB\u610F\uFF09.chm",
+            "TargetPath": "%rp%\\Commonly\\VC++\u4E4BMFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C\uFF08\u4E00\u6000\u53BB\u610F\uFF09.chm",
+            "IconLocation": "%rp%\\Commonly\\VC++\u4E4BMFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C\uFF08\u4E00\u6000\u53BB\u610F\uFF09.chm",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "Win32API\u5927\u5168+(\u4E2D\u6587\u7248)",
-            "TargetPath": "%rp%\\Software-Commonly\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
-            "IconLocation": "%rp%\\Software-Commonly\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
+            "TargetPath": "%rp%\\Commonly\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
+            "IconLocation": "%rp%\\Commonly\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
             "Arguments": "",
             "Count": 0
         }
@@ -151,8 +151,8 @@
         },
         {
             "Name": "MobaXterm",
-            "TargetPath": "%rp%\\Software-Development\\MobaXterm\\MobaXterm.exe",
-            "IconLocation": "%rp%\\Software-Development\\MobaXterm\\MobaXterm.exe",
+            "TargetPath": "%rp%\\Development\\MobaXterm\\MobaXterm.exe",
+            "IconLocation": "%rp%\\Development\\MobaXterm\\MobaXterm.exe",
             "Arguments": "",
             "Count": 0
         },
@@ -174,22 +174,22 @@
     "安卓逆向": [
         {
             "Name": "Jadx",
-            "TargetPath": "%rp%\\software\\Android Reverse\\jadx\\jadx-gui-1.5.1.exe",
-            "IconLocation": "%rp%\\software\\Android Reverse\\jadx\\jadx-gui-1.5.1.exe",
+            "TargetPath": "%rp%\\Android\\jadx\\jadx-gui-1.5.1.exe",
+            "IconLocation": "%rp%\\Android\\jadx\\jadx-gui-1.5.1.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "JEB",
-            "TargetPath": "%rp%\\software\\Android Reverse\\jeb\\bin\\jeb.exe",
-            "IconLocation": "%rp%\\software\\Android Reverse\\jeb\\bin\\jeb.exe",
+            "TargetPath": "%rp%\\Android\\jeb\\bin\\jeb.exe",
+            "IconLocation": "%rp%\\Android\\jeb\\bin\\jeb.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "QtScrcpy",
-            "TargetPath": "%rp%\\software\\Android Reverse\\QtScrcpy\\QtScrcpy.exe",
-            "IconLocation": "%rp%\\software\\Android Reverse\\QtScrcpy\\QtScrcpy.exe",
+            "TargetPath": "%rp%\\Android\\QtScrcpy\\QtScrcpy.exe",
+            "IconLocation": "%rp%\\Android\\QtScrcpy\\QtScrcpy.exe",
             "Arguments": "",
             "Count": 0
         }
