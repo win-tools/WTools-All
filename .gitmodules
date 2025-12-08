@@ -7,3 +7,6 @@
 [submodule "Commonly"]
 	path = Commonly
 	url = https://gitee.com/clovme/Commonly.git
+[submodule "Reverse"]
+	path = Reverse
+	url = https://gitee.com/clovme/Reverse.git

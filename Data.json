@@ -197,97 +197,97 @@
     "逆向破解": [
         {
             "Name": "BIOSEDIT",
-            "TargetPath": "%rp%\\software\\Reverse Cracking\\BIOS Editor\\BIOSEDIT.exe",
-            "IconLocation": "%rp%\\software\\Reverse Cracking\\BIOS Editor\\BIOSEDIT.exe",
+            "TargetPath": "%rp%\\Reverse\\BIOS Editor\\BIOSEDIT.exe",
+            "IconLocation": "%rp%\\Reverse\\BIOS Editor\\BIOSEDIT.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "Cheat Engine",
-            "TargetPath": "%rp%\\software\\Reverse Cracking\\Cheat Engine 7.5\\Cheat Engine.exe",
-            "IconLocation": "%rp%\\software\\Reverse Cracking\\Cheat Engine 7.5\\Cheat Engine.exe",
+            "TargetPath": "%rp%\\Reverse\\Cheat Engine 7.5\\Cheat Engine.exe",
+            "IconLocation": "%rp%\\Reverse\\Cheat Engine 7.5\\Cheat Engine.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "Cutter 2.3.4 \u53CD\u6C47\u7F16\u9006\u5411\u8C03\u8BD5",
-            "TargetPath": "%rp%\\software\\Reverse Cracking\\Cutter 2.3.4\\cutter.exe",
-            "IconLocation": "%rp%\\software\\Reverse Cracking\\Cutter 2.3.4\\cutter.exe",
+            "TargetPath": "%rp%\\Reverse\\Cutter 2.3.4\\cutter.exe",
+            "IconLocation": "%rp%\\Reverse\\Cutter 2.3.4\\cutter.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "DbgPlugin6.11\u65B0\u5546\u4E1A\u7248",
-            "TargetPath": "%rp%\\software\\Reverse Cracking\\DbgPlugin6.11\\DbgPlugin.exe",
-            "IconLocation": "%rp%\\software\\Reverse Cracking\\DbgPlugin6.11\\DbgPlugin.exe",
+            "TargetPath": "%rp%\\Reverse\\DbgPlugin6.11\\DbgPlugin.exe",
+            "IconLocation": "%rp%\\Reverse\\DbgPlugin6.11\\DbgPlugin.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "DbgPlugin\u4E13\u7528\u7248OD",
-            "TargetPath": "%rp%\\software\\Reverse Cracking\\DbgPlugin OD\\loaddll.exe",
-            "IconLocation": "%rp%\\software\\Reverse Cracking\\DbgPlugin OD\\loaddll.exe",
+            "TargetPath": "%rp%\\Reverse\\DbgPlugin OD\\loaddll.exe",
+            "IconLocation": "%rp%\\Reverse\\DbgPlugin OD\\loaddll.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "ExeinfoPE",
-            "TargetPath": "%rp%\\software\\Reverse Cracking\\ExeinfoPE\\exeinfope.exe",
-            "IconLocation": "%rp%\\software\\Reverse Cracking\\ExeinfoPE\\exeinfope.exe",
+            "TargetPath": "%rp%\\Reverse\\ExeinfoPE\\exeinfope.exe",
+            "IconLocation": "%rp%\\Reverse\\ExeinfoPE\\exeinfope.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "InstDrv",
-            "TargetPath": "%rp%\\software\\Reverse Cracking\\InstDrv.exe",
-            "IconLocation": "%rp%\\software\\Reverse Cracking\\InstDrv.exe",
+            "TargetPath": "%rp%\\Reverse\\InstDrv.exe",
+            "IconLocation": "%rp%\\Reverse\\InstDrv.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "OpenArk64",
-            "TargetPath": "%rp%\\software\\Reverse Cracking\\OpenArk64.exe",
-            "IconLocation": "%rp%\\software\\Reverse Cracking\\OpenArk64.exe",
+            "TargetPath": "%rp%\\Reverse\\OpenArk64.exe",
+            "IconLocation": "%rp%\\Reverse\\OpenArk64.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "WinHex",
-            "TargetPath": "%rp%\\software\\Reverse Cracking\\WinHex.exe",
-            "IconLocation": "%rp%\\software\\Reverse Cracking\\WinHex.exe",
+            "TargetPath": "%rp%\\Reverse\\WinHex.exe",
+            "IconLocation": "%rp%\\Reverse\\WinHex.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "x64dbg",
-            "TargetPath": "%rp%\\software\\Reverse Cracking\\x64dbg\\x64\\x64dbg.exe",
-            "IconLocation": "%rp%\\software\\Reverse Cracking\\x64dbg\\x64\\x64dbg.exe",
+            "TargetPath": "%rp%\\Reverse\\x64dbg\\x96dbg.exe",
+            "IconLocation": "%rp%\\Reverse\\x64dbg\\x96dbg.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "IDA Pro 9.0",
-            "TargetPath": "%rp%\\software\\Reverse Cracking\\IDA Professional 9.0\\ida.exe",
-            "IconLocation": "%rp%\\software\\Reverse Cracking\\IDA Professional 9.0\\ida.exe",
+            "TargetPath": "%rp%\\Reverse\\IDA Professional 9.0\\ida.exe",
+            "IconLocation": "%rp%\\Reverse\\IDA Professional 9.0\\ida.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "ResourceHacker",
-            "TargetPath": "%rp%\\software\\Reverse Cracking\\ResourceHacker-5.2.7.427.exe",
-            "IconLocation": "%rp%\\software\\Reverse Cracking\\ResourceHacker-5.2.7.427.exe",
+            "TargetPath": "%rp%\\Reverse\\ResourceHacker-5.2.7.427.exe",
+            "IconLocation": "%rp%\\Reverse\\ResourceHacker-5.2.7.427.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "\u67E5\u58F3\u7A0B\u5E8F",
-            "TargetPath": "%rp%\\software\\Reverse Cracking\\die\\die.exe",
-            "IconLocation": "%rp%\\software\\Reverse Cracking\\die\\die.exe",
+            "TargetPath": "%rp%\\Reverse\\die\\die.exe",
+            "IconLocation": "%rp%\\Reverse\\die\\die.exe",
             "Arguments": "",
             "Count": 0
         }
     ],
-    "系统管理": [
+    "系统工具": [
         {
             "Name": "UninstallTool",
             "TargetPath": "%rp%\\software\\System Management\\UninstallTool.exe",
