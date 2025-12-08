@@ -13,3 +13,6 @@
 [submodule "System"]
 	path = System
 	url = https://gitee.com/clovme/System.git
+[submodule "Entertainment"]
+	path = Entertainment
+	url = https://gitee.com/clovme/Entertainment.git

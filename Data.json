@@ -439,22 +439,15 @@
     "媒体娱乐": [
         {
             "Name": "\u5B8C\u7F8E\u89E3\u7801",
-            "TargetPath": "%rp%\\software\\Common Software\\Pure Codec\\x64\\PotPlayerMini64.exe",
-            "IconLocation": "%rp%\\software\\Common Software\\Pure Codec\\x64\\PotPlayerMini64.exe",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
-            "Name": "Steam",
-            "TargetPath": "C:\\Program Files (x86)\\Steam\\Steam.exe",
-            "IconLocation": "C:\\Program Files (x86)\\Steam\\Steam.exe",
+            "TargetPath": "%rp%\\Entertainment\\Pure Codec\\x64\\PotPlayerMini64.exe",
+            "IconLocation": "%rp%\\Entertainment\\Pure Codec\\x64\\PotPlayerMini64.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "zyfun",
-            "TargetPath": "%rp%\\software\\Common Software\\zyplayer\\zyfun.exe",
-            "IconLocation": "%rp%\\software\\Common Software\\zyplayer\\zyfun.exe",
+            "TargetPath": "%rp%\\Entertainment\\zyplayer\\zyfun.exe",
+            "IconLocation": "%rp%\\Entertainment\\zyplayer\\zyfun.exe",
             "Arguments": "",
             "Count": 0
         },
@@ -469,6 +462,13 @@
             "Name": "\u7C73\u54C8\u6E38\u542F\u52A8\u5668",
             "TargetPath": "C:\\Program Files\\miHoYo Launcher\\launcher.exe",
             "IconLocation": "C:\\Program Files\\miHoYo Launcher\\launcher.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Steam",
+            "TargetPath": "C:\\Program Files (x86)\\Steam\\Steam.exe",
+            "IconLocation": "C:\\Program Files (x86)\\Steam\\Steam.exe",
             "Arguments": "",
             "Count": 0
         }
