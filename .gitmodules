@@ -28,3 +28,6 @@
 [submodule "Background"]
 	path = Background
 	url = https://gitee.com/clovme/Background.git
+[submodule "data"]
+	path = data
+	url = https://gitee.com/clovme/data.git
