@@ -129,6 +129,13 @@
             "Count": 0
         },
         {
+            "Name": "Trae CN",
+            "TargetPath": "%rr%\\Application\\trae\\Trae CN.exe",
+            "IconLocation": "%rr%\\Application\\trae\\Trae CN.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
             "Name": "Visual Studio 2022",
             "TargetPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\Common7\\IDE\\devenv.exe",
             "IconLocation": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\Common7\\IDE\\devenv.exe",
@@ -513,43 +520,43 @@
     "下载工具": [
         {
             "Name": "HitomiDownloader",
-            "TargetPath": "%rp%\\software\\Download Tools\\HitomiDownloader\\HitomiDownloader.exe",
-            "IconLocation": "%rp%\\software\\Download Tools\\HitomiDownloader\\HitomiDownloader.exe",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
-            "Name": "Office Installer Plus",
-            "TargetPath": "%rp%\\software\\Download Tools\\Office Installer Plus\\Office Installer Plus.exe",
-            "IconLocation": "%rp%\\software\\Download Tools\\Office Installer Plus\\Office Installer Plus.exe",
+            "TargetPath": "%rp%\\Download\\HitomiDownloader\\HitomiDownloader.exe",
+            "IconLocation": "%rp%\\Download\\HitomiDownloader\\HitomiDownloader.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "DownKyi",
-            "TargetPath": "%rp%\\software\\Download Tools\\DownKyi\\DownKyi.exe",
-            "IconLocation": "%rp%\\software\\Download Tools\\DownKyi\\DownKyi.exe",
+            "TargetPath": "%rp%\\Download\\DownKyi\\DownKyi.exe",
+            "IconLocation": "%rp%\\Download\\DownKyi\\DownKyi.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "Bili23",
-            "TargetPath": "%rp%\\software\\Download Tools\\Bili23_Downloader\\GUI.exe",
-            "IconLocation": "%rp%\\software\\Download Tools\\Bili23_Downloader\\GUI.exe",
+            "TargetPath": "%rp%\\Download\\Bili23_Downloader\\GUI.exe",
+            "IconLocation": "%rp%\\Download\\Bili23_Downloader\\GUI.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "BiliTools",
-            "TargetPath": "%rp%\\software\\Download Tools\\BiliTools\\bilitools.exe",
-            "IconLocation": "%rp%\\software\\Download Tools\\BiliTools\\bilitools.exe",
+            "TargetPath": "%rp%\\Download\\BiliTools\\bilitools.exe",
+            "IconLocation": "%rp%\\Download\\BiliTools\\bilitools.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "Motrix",
-            "TargetPath": "%rr%\\Application\\Motrix\\Motrix.exe",
-            "IconLocation": "%rr%\\Application\\Motrix\\Motrix.exe",
+            "TargetPath": "%rp%\\Download\\Motrix\\Motrix.exe",
+            "IconLocation": "%rp%\\Download\\Motrix\\Motrix.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Office Installer Plus",
+            "TargetPath": "%rp%\\Download\\Office Installer Plus\\Office Installer Plus.exe",
+            "IconLocation": "%rp%\\Download\\Office Installer Plus\\Office Installer Plus.exe",
             "Arguments": "",
             "Count": 0
         }
