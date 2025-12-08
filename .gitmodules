@@ -1,0 +1,9 @@
+[submodule "Commonly"]
+	path = Commonly
+	url = https://gitee.com/clovme/Software-Commonly.git
+[submodule "Development"]
+	path = Development
+	url = https://gitee.com/clovme/Software-Development.git
+[submodule "Android"]
+	path = Android
+	url = https://gitee.com/clovme/Software-Android.git
