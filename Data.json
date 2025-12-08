@@ -90,13 +90,6 @@
             "IconLocation": "%rp%\\Software-Commonly\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
             "Arguments": "",
             "Count": 0
-        },
-        {
-            "Name": "Win32API\u5927\u5168+(\u4E2D\u6587\u7248)",
-            "TargetPath": "%rp%\\software\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
-            "IconLocation": "%rp%\\software\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
-            "Arguments": "",
-            "Count": 0
         }
     ],
     "编程软件": [
@@ -158,15 +151,8 @@
         },
         {
             "Name": "MobaXterm",
-            "TargetPath": "%rp%\\software\\Programming Software\\MobaXterm\\MobaXterm.exe",
-            "IconLocation": "%rp%\\software\\Programming Software\\MobaXterm\\MobaXterm.exe",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
-            "Name": "Trae CN",
-            "TargetPath": "%rr%\\Application\\trae\\Trae CN.exe",
-            "IconLocation": "%rr%\\Application\\trae\\Trae CN.exe",
+            "TargetPath": "%rp%\\Software-Development\\MobaXterm\\MobaXterm.exe",
+            "IconLocation": "%rp%\\Software-Development\\MobaXterm\\MobaXterm.exe",
             "Arguments": "",
             "Count": 0
         },
