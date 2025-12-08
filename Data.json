@@ -78,6 +78,13 @@
             "Count": 0
         },
         {
+            "Name": "Umi-OCR",
+            "TargetPath": "%rp%\\Commonly\\Umi-OCR\\Umi-OCR.exe",
+            "IconLocation": "%rp%\\Commonly\\Umi-OCR\\Umi-OCR.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
             "Name": "MFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C",
             "TargetPath": "%rp%\\Commonly\\VC++\u4E4BMFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C\uFF08\u4E00\u6000\u53BB\u610F\uFF09.chm",
             "IconLocation": "%rp%\\Commonly\\VC++\u4E4BMFC\u7C7B\u5E93\u4E2D\u6587\u624B\u518C\uFF08\u4E00\u6000\u53BB\u610F\uFF09.chm",
@@ -290,148 +297,141 @@
     "系统工具": [
         {
             "Name": "UninstallTool",
-            "TargetPath": "%rp%\\software\\System Management\\UninstallTool.exe",
-            "IconLocation": "%rp%\\software\\System Management\\UninstallTool.exe",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
-            "Name": "Umi-OCR",
-            "TargetPath": "%rp%\\software\\System Management\\Umi-OCR\\Umi-OCR.exe",
-            "IconLocation": "%rp%\\software\\System Management\\Umi-OCR\\Umi-OCR.exe",
+            "TargetPath": "%rp%\\System\\UninstallTool.exe",
+            "IconLocation": "%rp%\\System\\UninstallTool.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "DNSTools",
-            "TargetPath": "%rp%\\software\\System Management\\DNSTools\\DNSTools.exe",
-            "IconLocation": "%rp%\\software\\System Management\\DNSTools\\DNSTools.exe",
+            "TargetPath": "%rp%\\System\\DNSTools\\DNSTools.exe",
+            "IconLocation": "%rp%\\System\\DNSTools\\DNSTools.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "NETworkManager",
-            "TargetPath": "%rp%\\software\\System Management\\NETworkManager\\NETworkManager.exe",
-            "IconLocation": "%rp%\\software\\System Management\\NETworkManager\\NETworkManager.exe",
+            "TargetPath": "%rp%\\System\\NETworkManager\\NETworkManager.exe",
+            "IconLocation": "%rp%\\System\\NETworkManager\\NETworkManager.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "DriverEasy",
-            "TargetPath": "%rp%\\software\\System Management\\DriverEasy\\DriverEasy.exe",
-            "IconLocation": "%rp%\\software\\System Management\\DriverEasy\\DriverEasy.exe",
+            "TargetPath": "%rp%\\System\\DriverEasy\\DriverEasy.exe",
+            "IconLocation": "%rp%\\System\\DriverEasy\\DriverEasy.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "ClickShow",
-            "TargetPath": "%rp%\\software\\System Management\\ClickShow\\ClickShow.exe",
-            "IconLocation": "%rp%\\software\\System Management\\ClickShow\\ClickShow.exe",
+            "TargetPath": "%rp%\\System\\ClickShow\\ClickShow.exe",
+            "IconLocation": "%rp%\\System\\ClickShow\\ClickShow.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "Ashampoo Privacy Inspector",
-            "TargetPath": "%rp%\\software\\System Management\\Privacy Inspector\\Ashampoo Privacy Inspector.exe",
-            "IconLocation": "%rp%\\software\\System Management\\Privacy Inspector\\Ashampoo Privacy Inspector.exe",
+            "TargetPath": "%rp%\\System\\Privacy Inspector\\Ashampoo Privacy Inspector.exe",
+            "IconLocation": "%rp%\\System\\Privacy Inspector\\Ashampoo Privacy Inspector.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "Wise Care 365 Pro",
-            "TargetPath": "%rp%\\software\\System Management\\Wise Care\\Wise Care 365 Pro 6.7.2.646.exe",
-            "IconLocation": "%rp%\\software\\System Management\\Wise Care\\Wise Care 365 Pro 6.7.2.646.exe",
+            "TargetPath": "%rp%\\System\\Wise Care\\Wise Care 365 Pro 6.7.2.646.exe",
+            "IconLocation": "%rp%\\System\\Wise Care\\Wise Care 365 Pro 6.7.2.646.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "CompactGUI",
-            "TargetPath": "%rp%\\software\\System Management\\CompactGUI.exe",
-            "IconLocation": "%rp%\\software\\System Management\\CompactGUI.exe",
+            "TargetPath": "%rp%\\System\\CompactGUI.exe",
+            "IconLocation": "%rp%\\System\\CompactGUI.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "Windows11\u8F7B\u677E\u8BBE\u7F6E",
-            "TargetPath": "%rp%\\software\\System Management\\Windows11Setting\\Windows11\u8F7B\u677E\u8BBE\u7F6E.exe",
-            "IconLocation": "%rp%\\software\\System Management\\Windows11Setting\\Windows11\u8F7B\u677E\u8BBE\u7F6E.exe",
+            "TargetPath": "%rp%\\System\\Windows11Setting\\Windows11\u8F7B\u677E\u8BBE\u7F6E.exe",
+            "IconLocation": "%rp%\\System\\Windows11Setting\\Windows11\u8F7B\u677E\u8BBE\u7F6E.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "ProcessExplorer",
-            "TargetPath": "%rp%\\software\\System Management\\ProcessExplorer.exe",
-            "IconLocation": "%rp%\\software\\System Management\\ProcessExplorer.exe",
+            "TargetPath": "%rp%\\System\\ProcessExplorer.exe",
+            "IconLocation": "%rp%\\System\\ProcessExplorer.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "PC_Cleaner",
-            "TargetPath": "%rp%\\software\\System Management\\PC_Cleaner.exe",
-            "IconLocation": "%rp%\\software\\System Management\\PC_Cleaner.exe",
+            "TargetPath": "%rp%\\System\\PC_Cleaner.exe",
+            "IconLocation": "%rp%\\System\\PC_Cleaner.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "Windows\u7CFB\u7EDF\u8C03\u6821",
-            "TargetPath": "%rp%\\software\\System Management\\Windows\u7CFB\u7EDF\u8C03\u6821.exe",
-            "IconLocation": "%rp%\\software\\System Management\\Windows\u7CFB\u7EDF\u8C03\u6821.exe",
+            "TargetPath": "%rp%\\System\\Windows\u7CFB\u7EDF\u8C03\u6821.exe",
+            "IconLocation": "%rp%\\System\\Windows\u7CFB\u7EDF\u8C03\u6821.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "OpenArk64",
-            "TargetPath": "%rp%\\software\\System Management\\OpenArk64.exe",
-            "IconLocation": "%rp%\\software\\System Management\\OpenArk64.exe",
+            "TargetPath": "%rp%\\System\\OpenArk64.exe",
+            "IconLocation": "%rp%\\System\\OpenArk64.exe",
             "Arguments": "",
             "Count": 0
         },
         {
-            "Name": "\u542F\u52A8\u9879\u76EE\u7BA1\u7406(Autoruns)",
-            "TargetPath": "%rp%\\software\\System Management\\\u542F\u52A8\u9879\u76EE\u7BA1\u7406.exe",
-            "IconLocation": "%rp%\\software\\System Management\\\u542F\u52A8\u9879\u76EE\u7BA1\u7406.exe",
+            "Name": "\u542F\u52A8\u9879\u76EE\u7BA1\u7406",
+            "TargetPath": "%rp%\\System\\\u542F\u52A8\u9879\u76EE\u7BA1\u7406.exe",
+            "IconLocation": "%rp%\\System\\\u542F\u52A8\u9879\u76EE\u7BA1\u7406.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "\u81EA\u52A8\u5316\u4EFB\u52A1",
-            "TargetPath": "%rp%\\software\\System Management\\zTasker\\zTasker.exe",
-            "IconLocation": "%rp%\\software\\System Management\\zTasker\\zTasker.exe",
+            "TargetPath": "%rp%\\System\\zTasker\\zTasker.exe",
+            "IconLocation": "%rp%\\System\\zTasker\\zTasker.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "IP\u5730\u5740\u4FEE\u6539\u5668",
-            "TargetPath": "%rp%\\software\\System Management\\IP\u5730\u5740\u4FEE\u6539\u5668.exe",
-            "IconLocation": "%rp%\\software\\System Management\\IP\u5730\u5740\u4FEE\u6539\u5668.exe",
+            "TargetPath": "%rp%\\System\\IP\u5730\u5740\u4FEE\u6539\u5668.exe",
+            "IconLocation": "%rp%\\System\\IP\u5730\u5740\u4FEE\u6539\u5668.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "Hosts\u7F16\u8F91\u5668",
-            "TargetPath": "%rp%\\software\\System Management\\Hosts\u7F16\u8F91\u5668.exe",
-            "IconLocation": "%rp%\\software\\System Management\\Hosts\u7F16\u8F91\u5668.exe",
+            "TargetPath": "%rp%\\System\\Hosts\u7F16\u8F91\u5668.exe",
+            "IconLocation": "%rp%\\System\\Hosts\u7F16\u8F91\u5668.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "\u9690\u79C1\u8BBE\u7F6E",
-            "TargetPath": "%rp%\\software\\System Management\\OOSU10\\OOSU10.exe",
-            "IconLocation": "%rp%\\software\\System Management\\OOSU10\\OOSU10.exe",
+            "TargetPath": "%rp%\\System\\OOSU10\\OOSU10.exe",
+            "IconLocation": "%rp%\\System\\OOSU10\\OOSU10.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "\u9690\u79C1\u8BBE\u7F6E",
-            "TargetPath": "%rp%\\software\\System Management\\DoNotSpy11.exe",
-            "IconLocation": "%rp%\\software\\System Management\\DoNotSpy11.exe",
+            "TargetPath": "%rp%\\System\\DoNotSpy11.exe",
+            "IconLocation": "%rp%\\System\\DoNotSpy11.exe",
             "Arguments": "",
             "Count": 0
         },
         {
             "Name": "Edge\u914D\u7F6E\u767E\u79D1",
-            "TargetPath": "%rp%\\software\\System Management\\EdgeTools.exe",
-            "IconLocation": "%rp%\\software\\System Management\\EdgeTools.exe",
+            "TargetPath": "%rp%\\System\\EdgeTools.exe",
+            "IconLocation": "%rp%\\System\\EdgeTools.exe",
             "Arguments": "",
             "Count": 0
         }
