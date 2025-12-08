@@ -19,3 +19,6 @@
 [submodule "Proxy"]
 	path = Proxy
 	url = https://gitee.com/clovme/Proxy.git
+[submodule "Download"]
+	path = Download
+	url = https://gitee.com/clovme/Download.git
