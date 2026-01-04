@@ -15,16 +15,23 @@
             "Count": 0
         },
         {
-            "Name": "Typora",
-            "TargetPath": "C:\\Program Files\\Typora\\Typora.exe",
-            "IconLocation": "C:\\Program Files\\Typora\\Typora.exe",
+            "Name": "Microsoft Edge",
+            "TargetPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+            "IconLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
             "Arguments": "",
             "Count": 0
         },
         {
-            "Name": "Microsoft Edge",
-            "TargetPath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
-            "IconLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+            "Name": "Google Chrome",
+            "TargetPath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "IconLocation": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Typora",
+            "TargetPath": "C:\\Program Files\\Typora\\Typora.exe",
+            "IconLocation": "C:\\Program Files\\Typora\\Typora.exe",
             "Arguments": "",
             "Count": 0
         },
@@ -50,9 +57,9 @@
             "Count": 0
         },
         {
-            "Name": "Sublime Text",
-            "TargetPath": "%rp%\\Commonly\\Sublime Text\\sublime_text.exe",
-            "IconLocation": "%rp%\\Commonly\\Sublime Text\\sublime_text.exe",
+            "Name": "Notepad++",
+            "TargetPath": "C:\\Program Files\\Notepad++\\notepad++.exe",
+            "IconLocation": "C:\\Program Files\\Notepad++\\notepad++.exe",
             "Arguments": "",
             "Count": 0
         },
@@ -324,13 +331,6 @@
             "Count": 0
         },
         {
-            "Name": "DriverEasy",
-            "TargetPath": "%rp%\\System\\DriverEasy\\DriverEasy.exe",
-            "IconLocation": "%rp%\\System\\DriverEasy\\DriverEasy.exe",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
             "Name": "ClickShow",
             "TargetPath": "%rp%\\System\\ClickShow\\ClickShow.exe",
             "IconLocation": "%rp%\\System\\ClickShow\\ClickShow.exe",
@@ -490,8 +490,8 @@
         },
         {
             "Name": "Mihomo Party",
-            "TargetPath": "%rp%\\Proxy\\mihomo\\Mihomo Party.exe",
-            "IconLocation": "%rp%\\Proxy\\mihomo\\Mihomo Party.exe",
+            "TargetPath": "%rp%\\Proxy\\mihomo\\Clash Party.exe",
+            "IconLocation": "%rp%\\Proxy\\mihomo\\Clash Party.exe",
             "Arguments": "",
             "Count": 0
         },
