@@ -104,6 +104,13 @@
             "IconLocation": "%rp%\\Commonly\\Win32API\u5927\u5168+(\u4E2D\u6587\u7248).chm",
             "Arguments": "",
             "Count": 0
+        },
+        {
+            "Name": "Final2x",
+            "TargetPath": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Final2x\\Final2x.exe",
+            "IconLocation": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Final2x\\Final2x.exe",
+            "Arguments": "",
+            "Count": 0
         }
     ],
     "编程软件": [
@@ -188,6 +195,13 @@
             "Name": "\u671B\u8A00OCR",
             "TargetPath": "%rp%\\Development\\\u671B\u8A00OCR\\subocr.exe",
             "IconLocation": "%rp%\\Development\\\u671B\u8A00OCR\\subocr.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Nuitka\u6253\u5305",
+            "TargetPath": "%rp%\\Development\\PyPacky.exe",
+            "IconLocation": "%rp%\\Development\\PyPacky.exe",
             "Arguments": "",
             "Count": 0
         }
@@ -439,6 +453,13 @@
             "Name": "Edge\u914D\u7F6E\u767E\u79D1",
             "TargetPath": "%rp%\\System\\EdgeTools.exe",
             "IconLocation": "%rp%\\System\\EdgeTools.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "Windows\u4F18\u5316",
+            "TargetPath": "%rp%\\System\\Optimizer-16.4.exe",
+            "IconLocation": "%rp%\\System\\Optimizer-16.4.exe",
             "Arguments": "",
             "Count": 0
         }
