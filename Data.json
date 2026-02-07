@@ -107,8 +107,8 @@
         },
         {
             "Name": "Final2x",
-            "TargetPath": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Final2x\\Final2x.exe",
-            "IconLocation": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Final2x\\Final2x.exe",
+            "TargetPath": "%rr%\\Application\\Final2x\\Final2x.exe",
+            "IconLocation": "%rr%\\Application\\Final2x\\Final2x.exe",
             "Arguments": "",
             "Count": 0
         }
@@ -490,13 +490,6 @@
             "Name": "\u7C73\u54C8\u6E38\u542F\u52A8\u5668",
             "TargetPath": "C:\\Program Files\\miHoYo Launcher\\launcher.exe",
             "IconLocation": "C:\\Program Files\\miHoYo Launcher\\launcher.exe",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
-            "Name": "Steam",
-            "TargetPath": "C:\\Program Files (x86)\\Steam\\Steam.exe",
-            "IconLocation": "C:\\Program Files (x86)\\Steam\\Steam.exe",
             "Arguments": "",
             "Count": 0
         }
