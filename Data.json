@@ -12,7 +12,7 @@
             "TargetPath": "C:\\Program Files\\Tencent\\Weixin\\Weixin.exe",
             "IconLocation": "C:\\Program Files\\Tencent\\Weixin\\Weixin.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 7
         },
         {
             "Name": "Microsoft Edge",
@@ -26,28 +26,28 @@
             "TargetPath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
             "IconLocation": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 2
         },
         {
             "Name": "Typora",
             "TargetPath": "C:\\Program Files\\Typora\\Typora.exe",
             "IconLocation": "C:\\Program Files\\Typora\\Typora.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 1
         },
         {
             "Name": "Word",
             "TargetPath": "C:\\Program Files\\Office2024\\root\\Office16\\WINWORD.EXE",
             "IconLocation": "C:\\Program Files\\Office2024\\root\\Office16\\WINWORD.EXE",
             "Arguments": "/q",
-            "Count": 0
+            "Count": 2
         },
         {
             "Name": "Excel",
             "TargetPath": "C:\\Program Files\\Office2024\\root\\Office16\\EXCEL.EXE",
             "IconLocation": "C:\\Program Files\\Office2024\\root\\Office16\\EXCEL.EXE",
             "Arguments": "",
-            "Count": 0
+            "Count": 1
         },
         {
             "Name": "PowerPoint",
@@ -61,7 +61,7 @@
             "TargetPath": "C:\\Program Files\\Notepad++\\notepad++.exe",
             "IconLocation": "C:\\Program Files\\Notepad++\\notepad++.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 26
         },
         {
             "Name": "\u559C\u9A6C\u62C9\u96C5\u542C\u4E66",
@@ -75,14 +75,14 @@
             "TargetPath": "%rp%\\Commonly\\resume\\\u4E2A\u4EBA\u7B80\u5386.exe",
             "IconLocation": "%rp%\\Commonly\\resume\\\u4E2A\u4EBA\u7B80\u5386.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 5
         },
         {
             "Name": "ChatGPT",
             "TargetPath": "%rp%\\Commonly\\ChatGPT.exe",
             "IconLocation": "%rp%\\Commonly\\ChatGPT.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 29
         },
         {
             "Name": "Umi-OCR",
@@ -110,7 +110,7 @@
             "TargetPath": "%rr%\\Application\\Final2x\\Final2x.exe",
             "IconLocation": "%rr%\\Application\\Final2x\\Final2x.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 3
         }
     ],
     "编程软件": [
@@ -119,35 +119,35 @@
             "TargetPath": "%rr%\\Application\\JetBrains\\PyCharm\\bin\\pycharm64.exe",
             "IconLocation": "%rr%\\Application\\JetBrains\\PyCharm\\bin\\pycharm64.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 36
         },
         {
             "Name": "GoLand",
             "TargetPath": "%rr%\\Application\\JetBrains\\GoLand\\bin\\goland64.exe",
             "IconLocation": "%rr%\\Application\\JetBrains\\GoLand\\bin\\goland64.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 78
         },
         {
             "Name": "WebStorm",
             "TargetPath": "%rr%\\Application\\JetBrains\\WebStorm\\bin\\webstorm64.exe",
             "IconLocation": "%rr%\\Application\\JetBrains\\WebStorm\\bin\\webstorm64.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 82
         },
         {
             "Name": "RustRover",
             "TargetPath": "%rr%\\Application\\JetBrains\\RustRover\\bin\\rustrover64.exe",
             "IconLocation": "%rr%\\Application\\JetBrains\\RustRover\\bin\\rustrover64.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 7
         },
         {
             "Name": "Trae CN",
             "TargetPath": "%rr%\\Application\\trae\\Trae CN.exe",
             "IconLocation": "%rr%\\Application\\trae\\Trae CN.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 12
         },
         {
             "Name": "Visual Studio 2022",
@@ -165,17 +165,17 @@
         },
         {
             "Name": "PhpWebStudy",
-            "TargetPath": "%rr%\\Application\\PhpWebStudy\\PhpWebStudy.exe",
-            "IconLocation": "%rr%\\Application\\PhpWebStudy\\PhpWebStudy.exe",
+            "TargetPath": "%rr%\\Application\\PhpWebStudy\\FlyEnv\\FlyEnv.exe",
+            "IconLocation": "%rr%\\Application\\PhpWebStudy\\FlyEnv\\FlyEnv.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 18
         },
         {
             "Name": "Navicat Premium 17",
             "TargetPath": "C:\\Program Files\\PremiumSoft\\Navicat Premium 17\\navicat.exe",
             "IconLocation": "C:\\Program Files\\PremiumSoft\\Navicat Premium 17\\navicat.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 32
         },
         {
             "Name": "MobaXterm",
@@ -189,7 +189,7 @@
             "TargetPath": "%rr%\\Application\\LM Studio\\LM Studio.exe",
             "IconLocation": "%rr%\\Application\\LM Studio\\LM Studio.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 11
         },
         {
             "Name": "\u671B\u8A00OCR",
@@ -203,7 +203,7 @@
             "TargetPath": "%rp%\\Development\\PyPacky.exe",
             "IconLocation": "%rp%\\Development\\PyPacky.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 3
         }
     ],
     "安卓逆向": [
@@ -273,6 +273,13 @@
             "Count": 0
         },
         {
+            "Name": "InjectX64",
+            "TargetPath": "%rp%\\Reverse\\InjectX GUI\\InjectX64.exe",
+            "IconLocation": "%rp%\\Reverse\\InjectX GUI\\InjectX64.exe",
+            "Arguments": "",
+            "Count": 1
+        },
+        {
             "Name": "InstDrv",
             "TargetPath": "%rp%\\Reverse\\InstDrv.exe",
             "IconLocation": "%rp%\\Reverse\\InstDrv.exe",
@@ -291,7 +298,7 @@
             "TargetPath": "%rp%\\Reverse\\WinHex.exe",
             "IconLocation": "%rp%\\Reverse\\WinHex.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 2
         },
         {
             "Name": "x64dbg",
@@ -308,16 +315,23 @@
             "Count": 0
         },
         {
-            "Name": "ResourceHacker",
-            "TargetPath": "%rp%\\Reverse\\ResourceHacker-5.2.7.427.exe",
-            "IconLocation": "%rp%\\Reverse\\ResourceHacker-5.2.7.427.exe",
+            "Name": "\u67E5\u58F3\u7A0B\u5E8F",
+            "TargetPath": "%rp%\\Reverse\\die\\die.exe",
+            "IconLocation": "%rp%\\Reverse\\die\\die.exe",
             "Arguments": "",
             "Count": 0
         },
         {
-            "Name": "\u67E5\u58F3\u7A0B\u5E8F",
-            "TargetPath": "%rp%\\Reverse\\die\\die.exe",
-            "IconLocation": "%rp%\\Reverse\\die\\die.exe",
+            "Name": "InnoExtractor_v11.4.0.166_Ultra",
+            "TargetPath": "%rp%\\Reverse\\InnoExtractor_v11.4.0.166_Ultra.exe",
+            "IconLocation": "%rp%\\Reverse\\InnoExtractor_v11.4.0.166_Ultra.exe",
+            "Arguments": "",
+            "Count": 0
+        },
+        {
+            "Name": "ResourceHacker_5.2.8.448",
+            "TargetPath": "D:\\Application\\WTools\\Reverse\\ResourceHacker_5.2.8.448.exe",
+            "IconLocation": "D:\\Application\\WTools\\Reverse\\ResourceHacker_5.2.8.448.exe",
             "Arguments": "",
             "Count": 0
         }
@@ -328,91 +342,91 @@
             "TargetPath": "%rp%\\System\\UninstallTool.exe",
             "IconLocation": "%rp%\\System\\UninstallTool.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 28
         },
         {
             "Name": "DNSTools",
             "TargetPath": "%rp%\\System\\DNSTools\\DNSTools.exe",
             "IconLocation": "%rp%\\System\\DNSTools\\DNSTools.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 3
         },
         {
             "Name": "NETworkManager",
             "TargetPath": "%rp%\\System\\NETworkManager\\NETworkManager.exe",
             "IconLocation": "%rp%\\System\\NETworkManager\\NETworkManager.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 4
         },
         {
             "Name": "ClickShow",
             "TargetPath": "%rp%\\System\\ClickShow\\ClickShow.exe",
             "IconLocation": "%rp%\\System\\ClickShow\\ClickShow.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 1
         },
         {
             "Name": "Ashampoo Privacy Inspector",
             "TargetPath": "%rp%\\System\\Privacy Inspector\\Ashampoo Privacy Inspector.exe",
             "IconLocation": "%rp%\\System\\Privacy Inspector\\Ashampoo Privacy Inspector.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 2
         },
         {
             "Name": "Wise Care 365 Pro",
             "TargetPath": "%rp%\\System\\Wise Care\\Wise Care 365 Pro 6.7.2.646.exe",
             "IconLocation": "%rp%\\System\\Wise Care\\Wise Care 365 Pro 6.7.2.646.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 1
         },
         {
             "Name": "CompactGUI",
             "TargetPath": "%rp%\\System\\CompactGUI.exe",
             "IconLocation": "%rp%\\System\\CompactGUI.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 2
         },
         {
             "Name": "Windows11\u8F7B\u677E\u8BBE\u7F6E",
             "TargetPath": "%rp%\\System\\Windows11Setting\\Windows11\u8F7B\u677E\u8BBE\u7F6E.exe",
             "IconLocation": "%rp%\\System\\Windows11Setting\\Windows11\u8F7B\u677E\u8BBE\u7F6E.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 1
         },
         {
             "Name": "ProcessExplorer",
             "TargetPath": "%rp%\\System\\ProcessExplorer.exe",
             "IconLocation": "%rp%\\System\\ProcessExplorer.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 1
         },
         {
             "Name": "PC_Cleaner",
             "TargetPath": "%rp%\\System\\PC_Cleaner.exe",
             "IconLocation": "%rp%\\System\\PC_Cleaner.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 1
         },
         {
             "Name": "Windows\u7CFB\u7EDF\u8C03\u6821",
             "TargetPath": "%rp%\\System\\Windows\u7CFB\u7EDF\u8C03\u6821.exe",
             "IconLocation": "%rp%\\System\\Windows\u7CFB\u7EDF\u8C03\u6821.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 1
         },
         {
             "Name": "OpenArk64",
             "TargetPath": "%rp%\\System\\OpenArk64.exe",
             "IconLocation": "%rp%\\System\\OpenArk64.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 1
         },
         {
             "Name": "\u542F\u52A8\u9879\u76EE\u7BA1\u7406",
             "TargetPath": "%rp%\\System\\\u542F\u52A8\u9879\u76EE\u7BA1\u7406.exe",
             "IconLocation": "%rp%\\System\\\u542F\u52A8\u9879\u76EE\u7BA1\u7406.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 1
         },
         {
             "Name": "\u81EA\u52A8\u5316\u4EFB\u52A1",
@@ -426,7 +440,7 @@
             "TargetPath": "%rp%\\System\\IP\u5730\u5740\u4FEE\u6539\u5668.exe",
             "IconLocation": "%rp%\\System\\IP\u5730\u5740\u4FEE\u6539\u5668.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 23
         },
         {
             "Name": "Hosts\u7F16\u8F91\u5668",
@@ -462,6 +476,13 @@
             "IconLocation": "%rp%\\System\\Optimizer-16.4.exe",
             "Arguments": "",
             "Count": 0
+        },
+        {
+            "Name": "Snap2HTML",
+            "TargetPath": "%rp%\\System\\Snap2HTML\\Bin\\Snap2HTML.exe",
+            "IconLocation": "%rp%\\System\\Snap2HTML\\Bin\\Snap2HTML.exe",
+            "Arguments": "",
+            "Count": 5
         }
     ],
     "媒体娱乐": [
@@ -470,14 +491,14 @@
             "TargetPath": "%rp%\\Entertainment\\Pure Codec\\x64\\PotPlayerMini64.exe",
             "IconLocation": "%rp%\\Entertainment\\Pure Codec\\x64\\PotPlayerMini64.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 1
         },
         {
             "Name": "zyfun",
             "TargetPath": "%rp%\\Entertainment\\zyplayer\\zyfun.exe",
             "IconLocation": "%rp%\\Entertainment\\zyplayer\\zyfun.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 2
         },
         {
             "Name": "\u6DF1\u9020\u64AD\u653E\u5668",
@@ -500,21 +521,21 @@
             "TargetPath": "C:\\Program Files (x86)\\Oppa\\Oppa.exe",
             "IconLocation": "C:\\Program Files (x86)\\Oppa\\Oppa.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 27
         },
         {
             "Name": "Mihomo Party",
             "TargetPath": "%rp%\\Proxy\\mihomo\\Clash Party.exe",
             "IconLocation": "%rp%\\Proxy\\mihomo\\Clash Party.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 23
         },
         {
             "Name": "FastGithub",
             "TargetPath": "%rp%\\Proxy\\FastGithub\\FastGithub.UI.exe",
             "IconLocation": "%rp%\\Proxy\\FastGithub\\FastGithub.UI.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 1
         },
         {
             "Name": "Charles",
@@ -537,14 +558,14 @@
             "TargetPath": "%rp%\\Download\\HitomiDownloader\\HitomiDownloader.exe",
             "IconLocation": "%rp%\\Download\\HitomiDownloader\\HitomiDownloader.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 3
         },
         {
             "Name": "DownKyi",
             "TargetPath": "%rp%\\Download\\DownKyi\\DownKyi.exe",
             "IconLocation": "%rp%\\Download\\DownKyi\\DownKyi.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 7
         },
         {
             "Name": "Bili23",
@@ -565,7 +586,7 @@
             "TargetPath": "%rp%\\Download\\Motrix\\Motrix.exe",
             "IconLocation": "%rp%\\Download\\Motrix\\Motrix.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 2
         },
         {
             "Name": "Office Installer Plus",
