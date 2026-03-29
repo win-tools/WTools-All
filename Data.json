@@ -22,13 +22,6 @@
             "Count": 0
         },
         {
-            "Name": "Google Chrome",
-            "TargetPath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-            "IconLocation": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
             "Name": "Typora",
             "TargetPath": "C:\\Program Files\\Typora\\Typora.exe",
             "IconLocation": "C:\\Program Files\\Typora\\Typora.exe",
@@ -113,13 +106,6 @@
             "Count": 0
         },
         {
-            "Name": "WriteWise",
-            "TargetPath": "C:\\Program Files\\WriteWise\\WriteWise.exe",
-            "IconLocation": "C:\\Program Files\\WriteWise\\WriteWise.exe",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
             "Name": "\u7F51\u6613\u90AE\u7BB1\u5927\u5E08",
             "TargetPath": "C:\\Program Files (x86)\\Netease\\MailMaster\\Application\\mailmaster.exe",
             "IconLocation": "C:\\Program Files (x86)\\Netease\\MailMaster\\Application\\mailmaster.exe",
@@ -154,19 +140,12 @@
             "TargetPath": "%rr%\\Application\\JetBrains\\RustRover\\bin\\rustrover64.exe",
             "IconLocation": "%rr%\\Application\\JetBrains\\RustRover\\bin\\rustrover64.exe",
             "Arguments": "",
-            "Count": 0
+            "Count": 1
         },
         {
             "Name": "Trae CN",
             "TargetPath": "%rr%\\Application\\trae\\Trae CN.exe",
             "IconLocation": "%rr%\\Application\\trae\\Trae CN.exe",
-            "Arguments": "",
-            "Count": 0
-        },
-        {
-            "Name": "Visual Studio 2022",
-            "TargetPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\Common7\\IDE\\devenv.exe",
-            "IconLocation": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\Common7\\IDE\\devenv.exe",
             "Arguments": "",
             "Count": 0
         },
@@ -493,8 +472,8 @@
         },
         {
             "Name": "Snap2HTML",
-            "TargetPath": "%rp%\\System\\Snap2HTML\\Bin\\Snap2HTML.exe",
-            "IconLocation": "%rp%\\System\\Snap2HTML\\Bin\\Snap2HTML.exe",
+            "TargetPath": "%rp%\\System\\Snap2HTML\\Snap2HTML.exe",
+            "IconLocation": "%rp%\\System\\Snap2HTML\\Snap2HTML.exe",
             "Arguments": "",
             "Count": 0
         }
@@ -532,8 +511,8 @@
     "代理软件": [
         {
             "Name": "Oppa",
-            "TargetPath": "C:\\Program Files (x86)\\Oppa\\Oppa.exe",
-            "IconLocation": "C:\\Program Files (x86)\\Oppa\\Oppa.exe",
+            "TargetPath": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Oppa\\Oppa.exe",
+            "IconLocation": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Oppa\\Oppa.exe",
             "Arguments": "",
             "Count": 0
         },
