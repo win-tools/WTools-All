@@ -1,33 +1,33 @@
 [submodule "Android"]
 	path = Android
-	url = https://gitee.com/clovme/Android.git
+	url = https://github.com/win-tools/Software-Android.git
 [submodule "Development"]
 	path = Development
-	url = https://gitee.com/clovme/Development.git
+	url = https://github.com/win-tools/Software-Development.git
 [submodule "Commonly"]
 	path = Commonly
-	url = https://gitee.com/clovme/Commonly.git
+	url = https://github.com/win-tools/Software-Commonly.git
 [submodule "Reverse"]
 	path = Reverse
-	url = https://gitee.com/clovme/Reverse.git
+	url = https://github.com/win-tools/Software-Reverse.git
 [submodule "System"]
 	path = System
-	url = https://gitee.com/clovme/System.git
+	url = https://github.com/win-tools/Software-System.git
 [submodule "Entertainment"]
 	path = Entertainment
-	url = https://gitee.com/clovme/Entertainment.git
+	url = https://github.com/win-tools/Software-Entertainment.git
 [submodule "Proxy"]
 	path = Proxy
-	url = https://gitee.com/clovme/Proxy.git
+	url = https://github.com/win-tools/Software-Proxy.git
 [submodule "Download"]
 	path = Download
-	url = https://gitee.com/clovme/Download.git
+	url = https://github.com/win-tools/Software-Download.git
 [submodule "Service"]
 	path = Service
-	url = https://gitee.com/clovme/Service.git
+	url = https://github.com/win-tools/Software-Service.git
 [submodule "Background"]
 	path = Background
-	url = https://gitee.com/clovme/Background.git
+	url = https://github.com/win-tools/Software-Background.git
 [submodule "data"]
 	path = data
-	url = https://gitee.com/clovme/data.git
+	url = https://github.com/win-tools/Software-data.git
