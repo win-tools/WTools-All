@@ -25,9 +25,3 @@
 [submodule "Service"]
 	path = Service
 	url = https://github.com/win-tools/Software-Service.git
-[submodule "Background"]
-	path = Background
-	url = https://github.com/win-tools/Background.git
-[submodule "data"]
-	path = data
-	url = https://github.com/win-tools/data.git
